@@ -1,0 +1,34 @@
+ @import 'menu.css';
+ @import 'hero.css';
+ @import 'button.css';
+ @import 'characteristicas.css';
+ @import 'value.css';
+ @import 'social.css';
+ @import 'footer.css';
+ 
+ 
+
+:root {
+    --Amarillo: #FCB72B;
+    --Amarillo-l: #FFF4DF;
+    --Blanco: #fff;
+    --Negro: #212121;
+    --Azul: #2F3B59;
+    --Gris: #333A44;
+    --Gris-m: #939CAA;
+    --Gris-l: #495567;
+    --Gris-xl: #E5ECF4;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "lexend deca";
+}
+
+.wrapper{
+    max-width: 375px;
+    margin-inline: auto;
+    padding-inline: 16px;
+    border: 1px solid green;
+}
