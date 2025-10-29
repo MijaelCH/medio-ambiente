@@ -1,0 +1,17 @@
+.nav-content, .nav-content-table {
+    padding-block: 32px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-content-table {
+    display: none;
+}
+
+.nav-content .hamburger {
+    max-height: 20px;
+}
+
+.nav-content .logo {
+    margin: auto;
+}

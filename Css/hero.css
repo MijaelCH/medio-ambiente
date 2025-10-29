@@ -1,0 +1,39 @@
+.hero {
+    background-image: url(/starter-code/assets/images/home-hero-mobile.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-content {
+    color: var(--Blanco);
+    margin-top: 115px;
+    margin-bottom: 198px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
+}
+
+.hero-content h1 {
+    font-family: "space mono";
+}
+
+.hero-content p {
+    line-height: 1.5;
+}
+
+.hero-content img{
+    position: absolute;
+    right: 300px;
+    top: 500px;
+}
+
+.hero-content .white-circles {
+    display: none;
+}
+
+.hero-content .line {
+    display: none;
+}
