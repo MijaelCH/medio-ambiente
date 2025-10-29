@@ -1,0 +1,27 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    align-items: center;
+    text-align: center;
+    background: var(--Gris);
+    padding: 80px;
+}
+
+.fondo-footer{
+   color: #fff;
+}
+
+.iconos-footer {
+    display: flex;
+    gap: 16px;
+}
+
+footer ul {
+    color: var(--Gris-l);
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    font-family: 'space mono';
+}

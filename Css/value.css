@@ -1,0 +1,55 @@
+.value {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    
+}
+
+.value-proposition {
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-block: 40px;
+}
+
+.value-proposition .image{
+    border-radius: 50%;
+}
+
+.value-proposition .left{
+    position: absolute;
+    top: 200px;
+}
+
+.value-proposition .rigth {
+    position: absolute;
+    right: 80px;
+    /* top: 16px; */
+}
+
+.value-proposition .left-two{
+    position: absolute;
+    top: 8px;
+    left: 150px;
+}
+
+.value-proposition h3 {
+    font-family: 'space mono';
+    font-size: 32px;
+    color: var(--Gris-l);
+}
+
+.value-proposition p {
+    color: var(--Gris-m);
+    line-height: 1.5;
+}
+
+.value-proposition .circle-left {
+    display: none;
+}
+
+.value-proposition .circle-rigth {
+    display: none;
+}

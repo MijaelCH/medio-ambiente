@@ -1,0 +1,36 @@
+.social {
+    background-color: var(--Gris-l);
+    padding-top: 120px;
+    position: relative;
+    /* height: 300px; */
+}
+
+.social-content {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.social-image {
+    display: flex;
+    justify-content: space-between;
+    /* gap: 32px; */
+    /* align-items: center; */
+    padding-bottom: 90px;
+    width: 100%;
+}
+
+.social .social-fondo {
+    position: absolute;
+    left: -550px;
+    bottom: 0px;
+}
+
+.social h2 {
+    font-family: 'space mono';
+    font-size: 32px;
+    color: var(--Blanco);
+    text-align: center;
+}
