@@ -23,6 +23,13 @@
     top: 200px;
 }
 
+.proposition-text {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+}
+
 .value-proposition .rigth {
     position: absolute;
     right: 80px;
