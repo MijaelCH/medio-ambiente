@@ -1,5 +1,5 @@
 .hero {
-    background-image: url(../assets/images/home-hero-mobile.jpg); 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img-limpio/sm-BtoJjAF_.webp); 
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
