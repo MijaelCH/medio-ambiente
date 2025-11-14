@@ -9,7 +9,7 @@
  
 
 :root {
-    --Amarillo: #FCB72B;
+    --Amarillo: linear-gradient(to right, #4ade80, #60a5fa );;
     --Amarillo-l: #FFF4DF;
     --Blanco: #fff;
     --Negro: #212121;

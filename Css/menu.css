@@ -10,8 +10,10 @@
 
 .nav-content .hamburger {
     max-height: 20px;
+    color: var(--Amarillo);
 }
 
 .nav-content .logo {
     margin: auto;
+    color: var(--Amarillo);
 }
